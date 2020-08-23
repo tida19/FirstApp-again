@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">FirstApp-again</string>
+    <string name="greeting">Hello!</string>
+    <string name="name">Tida Bonguleaum</string>
+    <string name="image_por">por1</string>
 </resources>
